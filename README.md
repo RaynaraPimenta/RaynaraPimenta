@@ -42,12 +42,11 @@
 <details open align="center">
   <br>
     <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliabb&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="juliabb" width="495"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaynaraPimenta&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="RaynaraPimenta" width="495"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RaynaraPimenta&show_icons=true&locale=pt-br&theme=radical" alt="juliabb" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RaynaraPimenta&show_icons=true&locale=pt-br&theme=radical" alt="RaynaraPimenta" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliabb&theme=tokyonight" alt="juliabb" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaynaraPimenta&theme=tokyonight" alt="RaynaraPimenta" /></p>
 
 ---
-  
- ![](https://github.com/RaynaraPimenta/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RaynaraPimenta/RaynaraPimenta/blob/output/github-contribution-grid-snake.svg)
