@@ -11,7 +11,6 @@
 - 🌍 Sou Natal/R.N.
 - 👩🏽‍💻 Estudante de desenvolvimento Frontend na Laboratória Brasil -  [ < LAB > ](https://pages.github.com/)
 - 💻 HTLM5 | CSS3 | Javascript 
-- 🎶 Também gosto de música 
 - 📱 Linkedin <a  align="center" href="https://www.linkedin.com/in/raynara-pimenta/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raynara Pimenta"></a> 
 - 📧 E-mail raynarapimenta@gmail.com 
 
@@ -42,7 +41,7 @@
 <details open align="center">
   <br>
     <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaynaraPimenta&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="RaynaraPimenta" width="495"/></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaynaraPimenta&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="RaynaraPimenta" width="495"/></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RaynaraPimenta&show_icons=true&locale=pt-br&theme=radical" alt="RaynaraPimenta" /></p>
 
