@@ -7,10 +7,10 @@
 
 ✨Sobre mim:
 
-- 🙆🏽‍♂️ Tenho 25 anos
-- 🌍 Sou Natal/R.N.
-- 👩🏽‍💻 Estudante de desenvolvimento Frontend na Laboratória Brasil -  [ < LAB > ](https://pages.github.com/)
-- 💻 HTLM5 | CSS3 | Javascript 
+- 🙆🏽‍♂️ Geração Z
+- 🌍 Potiguar - Natal
+- 👩🏽‍💻 Desesnvolvedora web na empresa  -  [ < Cartão ELO > ](https://github.com/elodevops)
+- 💻 React | Javascript | Java | Spring
 - 📱 Linkedin <a  align="center" href="https://www.linkedin.com/in/raynara-pimenta/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raynara Pimenta"></a> 
 - 📧 E-mail raynarapimenta@gmail.com 
 
